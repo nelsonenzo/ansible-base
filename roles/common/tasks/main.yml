@@ -1,0 +1,16 @@
+---
+- name: install curl
+  apt:
+    name: "curl"
+    state: present
+    force: yes
+
+- apt: name=python-software-properties
+- apt: name=software-properties-common
+
+- apt_repository: repo="deb http://ppa.launchpad.net/git-core/ppa/ubuntu trusty main" state=present
+- apt_key: id=A1715D88E1DF1F24 url=keyserver.ubuntu.net
+- apt: name="git" state=latest force=yes
+
+- apt: name="ntpdate" state=present force=yes
+

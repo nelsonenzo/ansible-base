@@ -1,0 +1,6 @@
+---
+- hosts: rundeck-hosts
+  roles:
+    - role: common
+
+    # - role: nginx
