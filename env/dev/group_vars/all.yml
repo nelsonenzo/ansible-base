@@ -5,5 +5,5 @@ users:
     groups: []
     uid: 5001
     ssh_key:
-      - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC1ATDCrhdbdrZD1UApsQQTdo6P750JGsjlj0nbMJt1OdYw+S5xG/0oy9TLkPvXwOWXXwY0zWdPUQ+01vH87dI1QdWP0Ega0OhFq+lxwSGgGlAQAloZ9Yl2zq9jQSOnqyN587nY6gJ1oASYa6oJGNpDfuBJagFKAohhcgXs+WTF2kmF2p4+5WQe9sBCBjcUaxJK6VF3MseqiGnzgKFznbpp+mn1WaklDjIf3ZuBR6uGl9dCzjbsi3ULWy4EaXNI7t2mW0jl9T8vMaMgnLXUifEbs0YkRGII+5TUwt6Nd9D8CnFInS3117G6gnJAIiz+Rm9vkh95Y3G61kDlgYokgckaJlRgFtTBPmp5OH5bHXWU2EJpwqY7crc++cge39/8eCPzfaemUbJxFwuPtbsaEsIrlNm10iCPTGBlOWzgGYboQiO+5P5oXbo/PSVbUS89Ly3JKxjAluy5yz4ZVs8SXR/04fdmbqWWm3qqTKpHqEVdUDQrXmYCC8Z3T6yTFW+qwcWxWLBnjWpT26wkVjkyGlG53zPatl3IPdJbwT43vM60XaF02W4vZPtoUg/b6mZMZzVpUsmLWs7ZeFSdWYHREI7f418LD7rWJiI1rfXVNKKaOvsag6AR+to8eWPz801GrLyESa4rbMb9oZqg2N2vrQ1okna1FD58FyMb2e1ZbsCVVQ== nelson@meetearnest.com"
+      - "ssh-rsa public key"
 
